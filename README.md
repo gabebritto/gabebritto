@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/gabebritto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabebritto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabebritto&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabebritto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img align="left"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabebritto&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div align="right" style="display: inline_block"><br>
   <img align="center" alt="Gabe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -9,7 +9,8 @@
   <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+  <img align="right" alt="Gabe-Photo" height="150" style="border-radius: 15px" src="https://cdn.discordapp.com/attachments/856009173471723529/947704030325526528/Perfil.jpeg">
+</div>
   ##
  
 <div align="center" text-align="center"> 

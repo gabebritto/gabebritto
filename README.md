@@ -1,3 +1,4 @@
+## Oi eu sou Gabriel Souto, estudante de programação no IFPB.
 <div align="center" style="display: inline_block">
   <a href="https://github.com/gabebritto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabebritto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>

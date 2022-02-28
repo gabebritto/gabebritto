@@ -11,7 +11,8 @@
   <img align="center" alt="Gabe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Gabe-Photo" height="150" style="border-radius: 15px" src="https://cdn.discordapp.com/attachments/856009173471723529/947704030325526528/Perfil.jpeg">
 </div>
-  ##
+  
+ ##
  
 <div align="center" text-align="center"> 
   <a href="https://instagram.com/gabrielsbritto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

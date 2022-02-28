@@ -9,8 +9,6 @@
   <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Gabe-Photo" height="150" style="border-radius: 15px" src="https://cdn.discordapp.com/attachments/856009173471723529/947704030325526528/Perfil.jpeg">
-</div>
   
   ##
  
